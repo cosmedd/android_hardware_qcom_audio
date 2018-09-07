@@ -40,6 +40,7 @@
 #include "audio_extn.h"
 #include "platform.h"
 #include "platform_api.h"
+#include <pthread.h>
 
 /*-------------------- Begin: AHAL-STHAL Interface ---------------------------*/
 /*
